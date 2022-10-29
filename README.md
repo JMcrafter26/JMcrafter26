@@ -32,10 +32,7 @@ and currently in college 💻</p>
 </p>
 <hr style="width: 100%; height: 1px; background-color: #000; border: none;">
 <h3>Do you want to see something scary? 🎃</h3>
-<details>
-<summary>Click here</summary>
 <a href="https://test.jm26.net/api/user-informations.php" target="_blank"><img src="https://test.jm26.net/api/user-informations.php?type=image&ref=github.com" alt="user informations" title="user informations"></a>
-</details>
 <p>This is really scary, isn&#39;t it? 😱</p>
 <p>Think about it: <br/>
     just by adding a image to my README.md, I can get informations about you. <br/>
