@@ -12,7 +12,7 @@ and currently in college 💻
 - But, I habe a site with experiments and tests I was doing while working on other projects. Go check it out:
   [test.jm26.net/list](https://go.jm26.net/experiments) 🎈
 
-```
+
 //
 // Dear maintainer: 
 // When I wrote any of this code, only I and God 
@@ -25,12 +25,12 @@ and currently in college 💻
 // as a warning 
 // to the next guy: 
 //
-```
+
 // total_hours_wasted_here = ![counter](https://test.jm26.net/api/github-profile-counter.php?type=image "counter")
-```
+
 //
-```
 [INCREASE](https://test.jm26.net/api/github-profile-counter.php)
+<a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a>
 
 <!---
 JMcrafter26/JMcrafter26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
