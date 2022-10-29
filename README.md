@@ -29,3 +29,4 @@ and currently in college 💻</p>
 <a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
 <p><br/>
 </p>
+<hr style="width: 100%; height: 1px; background-color: #000; border: none;">
