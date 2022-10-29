@@ -13,18 +13,18 @@ and currently in college 💻
   [test.jm26.net/list](https://go.jm26.net/experiments) 🎈
 
 
-//
-// Dear maintainer: 
-// When I wrote any of this code, only I and God 
-// knew what it was. 
-// Now, only God knows! 
-// 
-// So if you are done trying to 'optimize' 
-// this routine (and failed). 
-// please increment the following counter 
-// as a warning 
-// to the next guy: 
-//
+//<br/>
+// Dear maintainer: <br/>
+// When I wrote any of this code, only I and God <br/>
+// knew what it was. <br/>
+// Now, only God knows! <br/>
+// <br/>
+// So if you are done trying to 'optimize' <br/>
+// this routine (and failed). <br/>
+// please increment the following counter <br/>
+// as a warning <br/>
+// to the next guy: <br/>
+//<br/>
 
 // total_hours_wasted_here = ![counter](https://test.jm26.net/api/github-profile-counter.php?type=image "counter")
 
