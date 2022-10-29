@@ -30,6 +30,7 @@ and currently in college 💻
 ```
 //
 ```
+[INCREASE](https://test.jm26.net/api/github-profile-counter.php)
 
 <!---
 JMcrafter26/JMcrafter26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
