@@ -29,7 +29,6 @@ and currently in college 💻
 // total_hours_wasted_here = ![counter](https://test.jm26.net/api/github-profile-counter.php?type=image "counter")
 
 //
-[INCREASE](https://test.jm26.net/api/github-profile-counter.php)
 <a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a>
 
 <!---
