@@ -25,7 +25,8 @@ and currently in college 💻
 // as a warning 
 // to the next guy: 
 //
-// total_hours_wasted_here = 67 
+// total_hours_wasted_here = ![counter](https://test.jm26.net/api/github-profile-counter.php?type=image "counter")
+```
 //
 ```
 
