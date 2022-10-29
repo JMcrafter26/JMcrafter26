@@ -1,5 +1,6 @@
 
 <h3 id="-hi-i-am-john-">👋 Hi, I am John,</h3>
+<hr style="width: 100%; height: 1px; background-color: #000; border: none;">
 <p><img src="https://jm26.net/link/ip/?op=i&amp;tid=5ad81966-c217-41e0-b5d3-ccc4bc2bff50" alt="enter image description here" title="enter image title here">
 a full-stack web developer 🚀
 and currently in college 💻</p>
@@ -30,3 +31,20 @@ and currently in college 💻</p>
 <p><br/>
 </p>
 <hr style="width: 100%; height: 1px; background-color: #000; border: none;">
+<h3>Do you want to see something scary? 🎃</h3>
+<details>
+<summary>Click here</summary>
+<a href="https://test.jm26.net/api/user-informations.php" target="_blank"><img src="https://test.jm26.net/api/user-informations.php?type=image&ref=github.com" alt="user informations" title="user informations"></a>
+</details>
+<p>This is really scary, isn&#39;t it? 😱</p>
+<p>Think about it: <br/>
+    just by adding a image to my README.md, I can get informations about you. <br/>
+    In this case it's Githubs IP Address, because they are using a proxy. <br/>
+    But if you are on a site that doesn't use a proxy, anyone can get your IP Address. <br/>
+</p>
+<p>But don&#39;t worry, I don&#39;t do anything with this data. (I don&#39;t even save it) <br/>
+    I just want to show you how easy it is to get informations about you. <br/>
+</p>
+<p>BTW this project is open source. <br/>
+    You can check it out here: <a href="https://go.jm26.net/github-user-informations">github.com/jmcrafter26/user-informations</a> <br/>
+</p>
