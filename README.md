@@ -1,11 +1,4 @@
-<head>
-    <style>
-        .code {
-            font-family: monospace;
-            font-size: 1.2em;
-        }
-    </style>
-</head>
+
 <h3 id="-hi-i-am-john-">👋 Hi, I am John,</h3>
 <p><img src="https://jm26.net/link/ip/?op=i&amp;tid=5ad81966-c217-41e0-b5d3-ccc4bc2bff50" alt="enter image description here" title="enter image title here">
 a full-stack web developer 🚀
@@ -35,4 +28,4 @@ and currently in college 💻</p>
 <p>//
 <a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
 <p><br/>
-&lt;</p>
+</p>
