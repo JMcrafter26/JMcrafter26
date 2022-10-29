@@ -24,7 +24,7 @@ and currently in college 💻</p>
 // as a warning <br/>
 // to the next guy: <br/>
 //<br/></p>
-<p>// total_hours_wasted_here = <img src="https://test.jm26.net/api/github-profile-counter.php?type=image" alt="counter" title="counter"></p>
+<p>// total_hours_wasted_here = <img src="https://test.jm26.net/api/github-profile-counter.php?type=image" alt="counter" title="counter" style="width: 1.2%;"></p>
 <p>//
 <a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
 <p><br/>
