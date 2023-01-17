@@ -1,37 +1,23 @@
 
-<h3 id="-hi-i-am-john-">👋 Hi, I am John,</h3>
-<hr style="width: 100%; height: 1px; background-color: #000; border: none;">
-<p><img src="https://jm26.net/link/ip/?op=i&amp;tid=5ad81966-c217-41e0-b5d3-ccc4bc2bff50" alt="enter image description here" title="enter image title here">
-a full-stack web developer 🚀
-and currently in college 💻</p>
-<ul>
-<li>My strenghts are PHP, JavaScript and C++ 💪</li>
-<li>I am learning PHP and my plan is to learn C# with Unity 📚</li>
-<li><p>I have an own website: <a href="https://go.jm26.net/jm-github">www.jm26.net</a> (I don&#39;t have time to work on the landing page) 📢</p>
-</li>
-<li><p>But, I habe a site with experiments and tests I was doing while working on other projects. Go check it out:
-<a href="https://go.jm26.net/experiments">test.jm26.net/list</a> 🎈</p>
-</li>
-</ul>
-<p>//<br/>
-// Dear maintainer: <br/>
-// When I wrote any of this code, only I and God <br/>
-// knew what it was. <br/>
-// Now, only God knows! <br/>
-// <br/>
-// So if you are done trying to &#39;optimize&#39; <br/>
-// this routine (and failed). <br/>
-// please increment the following counter <br/>
-// as a warning <br/>
-// to the next guy: <br/>
-//<br/></p>
-<p>// total_hours_wasted_here = <img src="https://test.jm26.net/api/github-profile-counter.php?type=image" alt="counter" title="counter" style="width: 1.2%;"></p>
-<p>//
+## 👋 Hi, I'm John, ![Logo](https://jm26.net/link/ip/?op=i&amp;tid=5ad81966-c217-41e0-b5d3-ccc4bc2bff50)
+
+a full-stack web developer 🚀 and currently in college 💻
+
+### More about me
+
+- My strenghts are PHP, JavaScript and C++ 💪
+- Currently I am learning PHP and my plan is to learn C# with Unity in the future 📚
+- I have my own site: <a href="https://go.jm26.net/jm-github">www.jm26.net</a> (Didn't manage to get time for the landing page) 📢
+- My project that I am proud of is <img src="https://test.jm26.net/api/badge/beta?g&label=PHP&icon=f09b&message=Badges&format=png&scale=20&resizeoutput=false" height="20px" alt="PHP Badges"> [PHP-Badges](https://github.com/JMcrafter26/php-badges), an open-source shields.io alternative, entirely written in PHP.
+
+- But, I also have a site with experiments and tests I was doing while working on other projects. Go check it out: <a href="https://go.jm26.net/experiments" target="_blank">test.jm26.net/list</a> 🎈
+
+### Notice
+If you are using some of my projects and you don't know what is wrong with the code change this counter: total hours wasted = <img src="https://test.jm26.net/api/github-profile-counter.php?type=badge" alt="counter" title="counter" height="20px">
 <a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
-<p><br/>
-</p>
-<hr style="width: 100%; height: 1px; background-color: #000; border: none;">
-<h3>Do you want to see something scary? 🎃</h3>
+
+
+<!-- <h3>Do you want to see something scary? 🎃</h3>
 <a href="https://test.jm26.net/api/user-informations.php" target="_blank"><img src="https://test.jm26.net/api/user-informations.php?type=image&ref=github.com" alt="user informations" title="user informations"></a>
 <p>This is really scary, isn&#39;t it? 😱</p>
 <p>Think about it: <br/>
@@ -44,4 +30,4 @@ and currently in college 💻</p>
 </p>
 <p>BTW this project is open source. <br/>
     You can check it out here: <a href="https://go.jm26.net/github-user-informations">github.com/jmcrafter26/user-informations</a> <br/>
-</p>
+</p> -->
