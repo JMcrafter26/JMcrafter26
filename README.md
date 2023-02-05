@@ -14,11 +14,11 @@ a full-stack web developer 🚀 and currently in college 💻
 
 ### Notice
 If you are using some of my projects and you don't know what is wrong with the code change this counter: total hours wasted = <img src="https://test.jm26.net/api/github-profile-counter.php?type=badge" alt="counter" title="counter" height="20px">
-<a href="https://api.jm26.net/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
+<a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
 
 
 <!-- <h3>Do you want to see something scary? 🎃</h3>
-<a href="https://api.jm26.net/user-informations.php" target="_blank"><img src="https://test.jm26.net/api/user-informations.php?type=image&ref=github.com" alt="user informations" title="user informations"></a>
+<a href="https://test.jm26.net/api/user-informations.php" target="_blank"><img src="https://test.jm26.net/api/user-informations.php?type=image&ref=github.com" alt="user informations" title="user informations"></a>
 <p>This is really scary, isn&#39;t it? 😱</p>
 <p>Think about it: <br/>
     just by adding a image to my README.md, I can get informations about you. <br/>
