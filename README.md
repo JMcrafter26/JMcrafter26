@@ -14,7 +14,7 @@ a full-stack web developer 🚀 and currently in college 💻
 
 ### Notice
 If you are using some of my projects and you don't know what is wrong with the code change this counter: total hours wasted = <img src="https://test.jm26.net/api/github-profile-counter.php?type=badge" alt="counter" title="counter" height="20px">
-<a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
+<a href="https://api.jm26.net/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
 
 
 <!-- <h3>Do you want to see something scary? 🎃</h3>
