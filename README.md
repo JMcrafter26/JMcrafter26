@@ -8,7 +8,7 @@ a full-stack web developer 🚀 and currently in college 💻
 - My strenghts are PHP, JavaScript and C++ 💪
 - Currently I am learning PHP and my plan is to learn C# with Unity in the future 📚
 - I have my own site: <a href="https://go.jm26.net/jm-github">www.jm26.net</a> (Didn't manage to get time for the landing page) 📢
-- My project that I am proud of is <img src="https://api.jm26.net/badge/beta?g&label=PHP&icon=f09b&message=Badges&format=png&scale=20&resizeoutput=false" height="20px" alt="PHP Badges"> [PHP-Badges](https://github.com/JMcrafter26/php-badges), an open-source shields.io alternative, entirely written in PHP.
+- My project that I am proud of is <a href="https://github.com/JMcrafter26" target="_blank"><img src="https://api.jm26.net/badge/beta?g&label=PHP&icon=f09b&message=Badges" height="20px" ></a> [PHP-Badges](https://github.com/JMcrafter26/php-badges), an open-source shields.io alternative, entirely written in PHP.
 
 - But, I also have a site with experiments and tests I was doing while working on other projects. Go check it out: <a href="https://go.jm26.net/experiments" target="_blank">test.jm26.net/list</a> 🎈
 
