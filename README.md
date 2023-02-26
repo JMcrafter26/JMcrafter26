@@ -12,7 +12,11 @@ a full-stack web developer 🚀 and currently in college 💻
 
 - But, I also have a site with experiments and tests I was doing while working on other projects. Go check it out: <a href="https://go.jm26.net/experiments" target="_blank">test.jm26.net/list</a> 🎈
 
-### Notice
+## Notice
+
+**PLEASE NOTE: I am a student and I'll have my exams soon, so I propably won't have time for this.*** -But after the exams (~June) I will continue working on this, I promise ^^
+
+
 If you are using some of my projects and you don't know what is wrong with the code change this counter: total hours wasted = <img src="https://test.jm26.net/api/github-profile-counter.php?type=badge" alt="counter" title="counter" height="20px">
 <a href="https://test.jm26.net/api/github-profile-counter.php" target="_blank">INCREASE HOURS</a></p>
 
