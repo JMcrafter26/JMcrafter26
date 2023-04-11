@@ -1,0 +1,80 @@
+<div align="center">
+  <!-- <img src="assets/night coding.gif"> -->
+  <img src="assets/hi.png">
+
+</div>
+
+<h3 align="center">
+  <!-- Welcome to John's GitHub Profile! -->
+  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+</h3>
+
+-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style="vertical-align:top;"> Hi, I’m John aka @JMcrafter26
+- <img src="https://media4.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="25" style="vertical-align:top;"> I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
+- 🌱 I’m currently learning C# and Unity
+- 📫 You can reach out to me at system-administrator@jm26.ne
+- 😁 Fun Fact: ```What color is your Bugatti?```
+
+<img src="assets/light.gif">
+
+<p align="center"> 
+  <a href="https://github.com/jmcrafter26?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jmcrafter26?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
+  <a href="https://github.com/jmcrafter26?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jmcrafter26?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+<!-- Profile Views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmcrafter26&style=for-the-badge&color=0a2647"> </p>
+
+## 🌐 Socials: 
+<div align="center">
+    <a href="https://github.com/jmcrafter26"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  </div>
+
+## 📊 GitHub Stats:
+<img src="assets/light.gif">
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmcrafter26&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmcrafter26&theme=monokai&hide_border=false">
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcrafter26&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <br>
+</div>
+
+# Coding Activity:
+<img src="assets/light.gif">
+<div align="center">
+  <img align="center" src="https://wakatime.com/share/@Jmcrafter26/eec087f4-52d9-43ed-bd5d-54b0217d59f1.png">
+</div>
+
+# 📈 Productivity Stats:
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcrafter26&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
+
+<img src="assets/light.gif"> 
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmcrafter26&theme=discord&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+<br>
+
+[![John's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmcrafter26&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="assets/light.gif"> 
+
+## 🐍 Watch My Contribution Graph get eaten by Snake 
+
+![John's Snake gif](https://github.com/jmcrafter26/jmcrafter26/blob/output/github-contribution-grid-snake.svg)
+
+<img src="assets/light.gif"> 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
