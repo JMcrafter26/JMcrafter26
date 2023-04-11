@@ -39,18 +39,24 @@
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmcrafter26&theme=monokai&hide_border=false">
   <br>
+  </div>
+<details><summary> Show More Stats</summary>
+
+<div align="center">
+
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcrafter26&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   <br>
 </div>
 
-# Coding Activity:
+<h2> Coding Activity </h2>
 <img src="assets/light.gif">
 <div align="center">
   <img align="center" src="https://wakatime.com/share/@Jmcrafter26/eec087f4-52d9-43ed-bd5d-54b0217d59f1.png">
 </div>
 
-# 📈 Productivity Stats:
+<h2> 📈 Productivity Stats </h2>
+
 <table align="center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcrafter26&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
@@ -59,14 +65,14 @@
 
 <img src="assets/light.gif"> 
 
-## 🏆 GitHub Trophies
+<h2> 🏆 Trophies </h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jmcrafter26&theme=discord&no-frame=false&no-bg=false&margin-w=4">
 </div>
-
 <br>
 
 [![John's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmcrafter26&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
 
 <img src="assets/light.gif"> 
 
