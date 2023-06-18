@@ -19,13 +19,12 @@
 <img src="assets/light.gif">
 
 <p align="center"> 
-  <a href="https://github.com/jmcrafter26?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jmcrafter26?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
+  <a href="https://github.com/jmcrafter26?tab=repositories&sort=stargazers"><img src="https://api.jm26.net/badge/beta?g&label=STARS&icon=f09b&color=F5C242&url=/github/stars/jmcrafter26" height="20px" alt="STARS " ></a>
   <a href="https://github.com/jmcrafter26?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jmcrafter26?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img src="https://api.jm26.net/badge/beta?g&label=FOLLOWER&icon=f09b&color=236AD3&url=/github/followers/Jmcrafter26" height="20px" alt="FOLLOWER " ></a>
 </p>
 <!-- Profile Views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmcrafter26&style=for-the-badge&color=0a2647"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmcrafter26&style=flat-square&color=0a2647"> </p>
 
 ## 🌐 Socials: 
 <div align="center">
