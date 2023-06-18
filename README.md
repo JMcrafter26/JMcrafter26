@@ -83,4 +83,4 @@
 <img src="assets/light.gif"> 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
