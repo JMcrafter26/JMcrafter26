@@ -30,6 +30,7 @@
 
 ## 🌐 Socials: 
 <div align="center">
+  <a href="https://socials.jm26.net/@JMcrafter26" >View My Profile on <a href="https://socials.jm26.net">SOCIALS.JM26.NET</a></a>
     <a href="https://github.com/jmcrafter26"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   </div>
 
