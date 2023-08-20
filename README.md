@@ -4,7 +4,7 @@
   <!-- <img src="https://github.com/JMcrafter26/JMcrafter26/blob/main/assets/hi.png?raw=true"> -->
 
   <a href="https://socials.jm26.net/@JMcrafter26" alt="Socials.JM26.NET">
-  <img src="https://github.com/JMcrafter26/JMcrafter26/blob/main/assets/profile.jpg?raw=true">
+  <img src="https://github.com/JMcrafter26/JMcrafter26/blob/main/assets/Github-profile.png?raw=true">
   </a>
 
 </div>
