@@ -1,7 +1,10 @@
 <div align="center">
   <!-- <img src="assets/night coding.gif"> -->
-  <a href="https://jm26.net" alt="JMcrafter26">
-  <img src="assets/hi.png">
+  <!-- <a href="https://jm26.net" alt="JMcrafter26"> -->
+  <!-- <img src="https://github.com/JMcrafter26/JMcrafter26/blob/main/assets/hi.png?raw=true"> -->
+
+  <a href="https://socials.jm26.net/@JMcrafter26" alt="Socials.JM26.NET">
+  <img src="https://github.com/JMcrafter26/JMcrafter26/blob/main/assets/profile.jpg?raw=true">
   </a>
 
 </div>
@@ -30,8 +33,8 @@
 
 ## 🌐 Socials: 
 <div align="center">
-  <a href="https://socials.jm26.net/@JMcrafter26" >View My Profile on <a href="https://socials.jm26.net">SOCIALS.JM26.NET</a></a>
-    <a href="https://github.com/jmcrafter26"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://socials.jm26.net/@JMcrafter26" alt="View My Profile on SOCIALS.JM26.NET">  <img src="https://github.com/JMcrafter26/JMcrafter26/blob/main/assets/socials.png?raw=true"></a>
+    <!-- <a href="https://github.com/jmcrafter26"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> -->
   </div>
 
 ## 📊 GitHub Stats:
