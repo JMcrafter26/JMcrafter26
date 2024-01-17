@@ -84,7 +84,7 @@
 
 ## 🐍 Watch My Contribution Graph get eaten by Snake 
 
-![John's Snake gif](https://github.com/jmcrafter26/jmcrafter26/blob/output/github-contribution-grid-snake.svg)
+![John's Snake gif](https://github.com/jmcrafter26/jmcrafter26/blob/output/github-contribution-grid-snake.gif)
 
 <img src="assets/light.gif"> 
 
