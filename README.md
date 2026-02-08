@@ -28,9 +28,11 @@
   <a href="https://github.com/jmcrafter26?tab=followers">
     <img src="https://api.jm26.net/badge/beta?g&label=FOLLOWER&icon=f09b&color=236AD3&url=/github/followers/Jmcrafter26" height="20px" alt="FOLLOWER " ></a>
   <a href="https://wakatime.com/@bc316344-3491-45bf-9757-ebf0dd1cdca6"><img src="https://wakatime.com/badge/user/bc316344-3491-45bf-9757-ebf0dd1cdca6.svg?style=flat-square" alt="Total time coded since Apr 27 2021" /></a>
+<img src="https://komarev.com/ghpvc/?username=jmcrafter26&style=flat-square&color=0a2647"> 
+  
 </p>
-<!-- Profile Views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmcrafter26&style=flat-square&color=0a2647"> </p>
+<p align="center"> 
+<a href='https://go.jm26.net/ko-fi' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
 
 ## 🌐 Socials: 
 <div align="center">
