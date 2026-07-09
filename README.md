@@ -14,7 +14,7 @@
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h3>
 
--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style="vertical-align:top;"> Hi, I’m John aka <a href="https://jm26.net">@JMcrafter26</a>, aka <a href="https://jm26.net">JM26</a>
+-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" style="vertical-align:top;"> Hi, I’m John aka <a href="https://jm26.net">@JMcrafter26</a>
 - <img src="https://media4.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif" width="25" style="vertical-align:top;"> I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m currently learning many things like Java, JavaScript, C++ and many more.
 - 📫 You can reach out to me at john [at] jm26.net
