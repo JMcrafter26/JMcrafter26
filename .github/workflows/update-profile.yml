@@ -1,0 +1,72 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run once a day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 1. Generate Snake Animation
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: jmcrafter26
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Update Year Progress Bar
+      - name: Use Node.js for Year Progress
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+
+      - name: Update year progress bar
+        run: node index.js
+
+      - name: Commit & Push Year Progress
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git diff --quiet && exit 0 || true
+          git commit -am "bot: update year progress bar"
+          git push
+
+      # 3. Update WakaTime Stats
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LANGUAGE: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_UPDATED_DATE: "False"
+
+      # 4. Update Dev Quote
+      - name: Update Dev Quote
+        uses: ApoorvTyagi/quote-readme@main
+        with:
+          OPTION: both
