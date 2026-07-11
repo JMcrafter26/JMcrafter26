@@ -186,8 +186,8 @@ interests:
 
   ### 💬 Random Dev Quote
   <!--STARTS_HERE_QUOTE_README-->
-  <i>❝Programming is the art of telling another human what one wants the computer to do.❞ — Donald Knuth</i>
-  <!--ENDS_HERE_QUOTE_README-->
+<i>❝“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
   <br/><br/>
 
