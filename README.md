@@ -186,7 +186,7 @@ interests:
 
   ### 💬 Random Dev Quote
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
+<i>❝elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/><br/>
