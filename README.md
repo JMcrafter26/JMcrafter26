@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-61AFEF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wakatime.com/@bc316344-3491-45bf-9757-ebf0dd1cdca6">
-    <img src="https://wakatime.com/badge/user/bc316344-3491-45bf-9757-ebf0dd1cdca6.svg?style=for-the-badge" alt="WakaTime" />
+    <img src="https://wakatime.com/badge/user/bc316344-3491-45bf-9757-ebf0dd1cdca6.svg?style=for-the-badge&color=61AFEF" alt="WakaTime" />
   </a>
 
   <br/><br/>
