@@ -12,7 +12,7 @@
   <br/>
 
   <!-- Badges Row -->
-  <a href="http://scr.im/johndev">
+  <a href="https://go.jm26.net/pobrl">
     <img src="https://img.shields.io/badge/Email-Contact-61AFEF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wakatime.com/@bc316344-3491-45bf-9757-ebf0dd1cdca6">
