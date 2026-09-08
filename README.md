@@ -186,7 +186,7 @@ interests:
 
   ### 💬 Random Dev Quote
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
+<i>❝“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/><br/>
