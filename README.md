@@ -63,7 +63,7 @@ interests:
   ![Python](https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=E5C07B)
   ![Java](https://img.shields.io/badge/Java-282C34?style=for-the-badge&logo=openjdk&logoColor=E06C75)
   ![HTML5](https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E06C75)
-  ![CSS3](https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=61AFEF)
+  ![CSS3](https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css&logoColor=61AFEF)
   ![Go](https://img.shields.io/badge/Go-282C34?style=for-the-badge&logo=go&logoColor=61AFEF)
 
   **Frameworks & Tools**
@@ -76,7 +76,7 @@ interests:
   ![Docker](https://img.shields.io/badge/Docker-282C34?style=for-the-badge&logo=docker&logoColor=61AFEF)
   ![Arduino](https://img.shields.io/badge/Arduino-282C34?style=for-the-badge&logo=arduino&logoColor=56B6C2)
   ![Linux](https://img.shields.io/badge/Linux-282C34?style=for-the-badge&logo=linux&logoColor=E5C07B)
-  ![VS Code](https://img.shields.io/badge/VS_Code-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=61AFEF)
+  ![VS Code](https://img.shields.io/badge/VS_Code-282C34?style=for-the-badge&logo=vscodium&logoColor=61AFEF)
   ![Ollama](https://img.shields.io/badge/Ollama-282C34?style=for-the-badge&logo=ollama&logoColor=E06C75)
 </div>
 
