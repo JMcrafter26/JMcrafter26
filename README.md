@@ -89,6 +89,9 @@ interests:
   <a href="https://github.com/JMcrafter26/tridUI">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=JMcrafter26&repo=tridUI&theme=onedark&hide_border=true" alt="tridUI" />
   </a>
+    <a href="https://github.com/JMcrafter26/qr-code-buddy-extension">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=JMcrafter26&repo=qr-code-buddy-extension&theme=onedark&hide_border=true" alt="awesome-ai-tools" />
+  </a>
     <a href="https://github.com/JMcrafter26/awesome-ai-tools">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=JMcrafter26&repo=awesome-ai-tools&theme=onedark&hide_border=true" alt="awesome-ai-tools" />
   </a>
