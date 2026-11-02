@@ -143,7 +143,7 @@ interests:
 
 ## ⏳ Year Progress
 
-⏳ **Year Progress:** { ████████████████████████▁▁▁▁▁▁ } 83.32% as on ⏰ 1-Nov-2026
+⏳ **Year Progress:** { █████████████████████████▁▁▁▁▁ } 83.60% as on ⏰ 2-Nov-2026
 
 <img src="assets/light.gif" width="100%">
 
