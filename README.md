@@ -33,7 +33,6 @@
 name: John
 location: Germany 🇩🇪
 role: Full Stack Developer & Student
-education: Applying for Software Engineering at University
 
 currently_working_on:
   - Cloud-connected IoT devices (ESP32)
